@@ -55,3 +55,13 @@ Fine-tuning via CLI:
 ```shell
 terratorch fit -c configs/prithvi_v2_eo_300_tl_unet_multitemporal_crop.yaml
 ```
+
+## More information
+
+Prithvi models: https://huggingface.co/ibm-nasa-geospatial
+
+Prithvi EO 2.0 examples: https://github.com/NASA-IMPACT/Prithvi-EO-2.0
+
+TerraTorch examples: https://github.com/IBM/terratorch/tree/main/examples
+
+TerraTorch docs: https://ibm.github.io/terratorch/
