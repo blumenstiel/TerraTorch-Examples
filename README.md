@@ -3,19 +3,35 @@ Examples for fine-tuning Prithvi on EO downstream tasks via TerraTorch
 
 ## Notebook examples
 
-Sen1Floods11 Tutorial: [prithvi_v2_eo_300_tl_unet_sen1floods11.ipynb](prithvi_v2_eo_300_tl_unet_sen1floods11.ipynb)
+### Sen1Floods11 
+
+Dataset: https://github.com/cloudtostreet/Sen1Floods11
+
+Tutorial: [prithvi_v2_eo_300_tl_unet_sen1floods11.ipynb](prithvi_v2_eo_300_tl_unet_sen1floods11.ipynb)
 
 [Open in Colab](https://colab.research.google.com/github/blumenstiel/TerraTorch-Examples/blob/main/prithvi_v2_eo_300_tl_unet_sen1floods11.ipynb)
 
-Check out the demo of the full fine-tuned model: https://huggingface.co/spaces/ibm-nasa-geospatial/Prithvi-EO-2.0-Sen1Floods11-demo
+Check out the demo of the fine-tuned model: https://huggingface.co/spaces/ibm-nasa-geospatial/Prithvi-EO-2.0-Sen1Floods11-demo
 
-HLS Burn Scars Tutorial: [prithvi_v2_eo_300_tl_unet_burnscars.ipynb](prithvi_v2_eo_300_tl_unet_burnscars.ipynb)
+### HLS Burn Scars
+
+Dataset: https://huggingface.co/datasets/ibm-nasa-geospatial/hls_burn_scars
+
+Tutorial: [prithvi_v2_eo_300_tl_unet_burnscars.ipynb](prithvi_v2_eo_300_tl_unet_burnscars.ipynb)
 
 [Open in Colab](https://colab.research.google.com/github/blumenstiel/TerraTorch-Examples/blob/main/prithvi_v2_eo_300_tl_unet_burnscars.ipynb)
 
-Multi-temporal Crop Tutorial: [prithvi_v2_eo_300_tl_unet_multitemporal_crop.ipynb](prithvi_v2_eo_300_tl_unet_multitemporal_crop.ipynb)
+Check out the demo of the fine-tuned model (Prithvi EO 1.0): https://huggingface.co/spaces/ibm-nasa-geospatial/Prithvi-100M-Burn-scars-demo
+
+# Multi-temporal Crop
+
+Dataset: https://huggingface.co/datasets/ibm-nasa-geospatial/multi-temporal-crop-classification
+
+Tutorial: [prithvi_v2_eo_300_tl_unet_multitemporal_crop.ipynb](prithvi_v2_eo_300_tl_unet_multitemporal_crop.ipynb)
 
 [Open in Colab](https://colab.research.google.com/github/blumenstiel/TerraTorch-Examples/blob/main/prithvi_v2_eo_300_tl_unet_multitemporal_crop.ipynb)
+
+Check out the demo of the fine-tuned model (Prithvi EO 1.0): https://huggingface.co/spaces/ibm-nasa-geospatial/Prithvi-100M-multi-temporal-crop-classification-demo
 
 ## Config examples for CLI
 
