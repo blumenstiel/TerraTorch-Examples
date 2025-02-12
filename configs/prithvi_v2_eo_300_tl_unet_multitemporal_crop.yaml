@@ -14,7 +14,7 @@ trainer:
         logging_interval: epoch
   max_epochs: 100
   log_every_n_steps: 5
-  default_root_dir: output/sen1floods11
+  default_root_dir: output/multicrop/
 
 data:
   class_path: terratorch.datamodules.MultiTemporalCropClassificationDataModule
