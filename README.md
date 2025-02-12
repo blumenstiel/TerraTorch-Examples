@@ -7,6 +7,8 @@ Sen1Floods11 Tutorial: [prithvi_v2_eo_300_tl_unet_sen1floods11.ipynb](prithvi_v2
 
 [Open in Colab](https://colab.research.google.com/github/blumenstiel/TerraTorch-Examples/blob/main/prithvi_v2_eo_300_tl_unet_sen1floods11.ipynb)
 
+Check out the demo of the full fine-tuned model: https://huggingface.co/spaces/ibm-nasa-geospatial/Prithvi-EO-2.0-Sen1Floods11-demo
+
 HLS Burn Scars Tutorial: [prithvi_v2_eo_300_tl_unet_burnscars.ipynb](prithvi_v2_eo_300_tl_unet_burnscars.ipynb)
 
 [Open in Colab](https://colab.research.google.com/github/blumenstiel/TerraTorch-Examples/blob/main/prithvi_v2_eo_300_tl_unet_burnscars.ipynb)
