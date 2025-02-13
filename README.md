@@ -23,7 +23,7 @@ Tutorial: [prithvi_v2_eo_300_tl_unet_burnscars.ipynb](prithvi_v2_eo_300_tl_unet_
 
 Check out the demo of the fine-tuned model (Prithvi EO 1.0): https://huggingface.co/spaces/ibm-nasa-geospatial/Prithvi-100M-Burn-scars-demo
 
-# Multi-temporal Crop
+### Multi-temporal Crop
 
 Dataset: https://huggingface.co/datasets/ibm-nasa-geospatial/multi-temporal-crop-classification
 
